@@ -1,8 +1,7 @@
 # ARYAN CHAURASIA 👾
+FULLSTACK | WORDPRESS | CLOUD | NEXTJS | MONGODB | REACTJS | DEVOPS
 
-## Skills:
-FULLSTACK | WORDPRESS | CLOUD
-NEXTJS | MONGODB | REACTJS | DEVOPS
+## About Me:
 
 I am a skilled full-stack web developer with three years of experience in creating, improving, and securing web applications. With proficiency in a range of web technologies, such as WordPress, React Frameworks, Cloud Hosting, and Web Security, and improved my skills in optimizing Core Web Vitals, ensuring exceptional user experience. 
 
