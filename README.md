@@ -1,18 +1,19 @@
 # ARYAN CHAURASIA 👾
 FULLSTACK | WORDPRESS | CLOUD | NEXTJS | MONGODB | REACTJS | DEVOPS
 
-![Profile Banner](https://link-to-your-banner-image.com/banner.jpg) <!-- Optional banner for a personal touch -->
-
 ## 🚀 About Me
 
 I am a **skilled full-stack web developer** with over **three years of experience** in developing, enhancing, and securing web applications. My expertise spans a diverse range of technologies, including **WordPress, React frameworks, cloud hosting solutions**, and **web security best practices**. I am committed to **optimizing Core Web Vitals** to ensure top-tier user experiences and seamless performance.
 
 ## 💼 Projects
 
-### 1. [SnapAI - Minor Project](https://github.com/kulterryan/snapai)
+### 1. [SelectWP.com](https://selectwp.com/)
+Find the best Wordpress resources for your website. Compare the top WordPress hostings, plugins, and themes to choose the best for your WordPress site.
+
+### 2. [SnapAI - Minor Project](https://github.com/kulterryan/snapai)
 A groundbreaking application that integrates AI for seamless image manipulation and sharing. SnapAI showcases advanced image processing techniques and React-driven interfaces.
 
-### 2. **TechFeed - News Aggregator**
+### 3. **TechFeed - News Aggregator**
 A sophisticated news platform that aggregates and presents the latest tech news. It incorporates modern API integrations, optimized rendering, and an intuitive UI for a smooth user experience.
 
 ## 🌐 Important Links
