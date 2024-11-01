@@ -26,11 +26,11 @@ A sophisticated news platform that aggregates and presents the latest tech news.
 
 ## 🛠️ Skills
 
-**Languages**: JavaScript, PHP, Python
-**Tech Stack**: Node.js, Bun.sh, Next.js,React.js, Elysia.js
-**CMS**: WordPress, Sanity, DirectUs, Strapi
-**Databases**: PostgreSQL, CockroachDB, MongoDB, MySQL
-**Cloud & DevOps**: AWS, Vercel, Cloudflare, Serverless, Kubernetes, Docker, CI/CD
+- **Languages**: JavaScript, PHP, Python
+- **Tech Stack**: Node.js, Bun.sh, Next.js,React.js, Elysia.js
+- **CMS**: WordPress, Sanity, DirectUs, Strapi
+- **Databases**: PostgreSQL, CockroachDB, MongoDB, MySQL
+- **Cloud & DevOps**: AWS, Vercel, Cloudflare, Serverless, Kubernetes, Docker, CI/CD
 
 ## 🤝 Let's Collaborate!
 
