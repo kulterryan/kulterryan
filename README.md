@@ -1,5 +1,5 @@
 # ARYAN CHAURASIA 👾
-FULLSTACK | WORDPRESS | CLOUD | NEXTJS | MONGODB | REACTJS | DEVOPS
+FULLSTACK | AI | DEVOPS | CLOUD | NEXTJS | POSTGRES | MONGODB | WORDPRESS
 
 ## 🚀 About Me
 
@@ -20,18 +20,17 @@ A sophisticated news platform that aggregates and presents the latest tech news.
 
 - ✨ **[Portfolio](https://aryn.tech)** — Explore my projects, skills, and career milestones.
 - 🤖 **[LinkedIn](https://linkedin.com/in/thehungrybird/)** — Connect with me for professional insights and networking.
-- 📄 **[Resume](https://aryn.tech/docs/cv-cet.pdf)** — View my detailed resume and career highlights.
 - 🕸️ **[Blog](https://code.aryn.tech/)** — Read my technical write-ups, tutorials, and industry reflections.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-**Languages & Frameworks**: JavaScript, ReactJS, NextJS, Node.js/Bun, PHP, HTML, CSS  
-**CMS**: WordPress, Headless CMS: Sanity, DirectUs, Strapi
-**Databases**: MongoDB, MySQL  
-**DevOps & Cloud**: Docker, GitHub Actions, AWS, Vercel, Netlify  
-**Other**: SEO best practices, Web Security, Core Web Vitals optimization
+**Languages**: JavaScript, PHP, Python
+**Tech Stack**: Node.js, Bun.sh, Next.js,React.js, Elysia.js
+**CMS**: WordPress, Sanity, DirectUs, Strapi
+**Databases**: PostgreSQL, CockroachDB, MongoDB, MySQL
+**Cloud & DevOps**: AWS, Vercel, Cloudflare, Serverless, Kubernetes, Docker, CI/CD
 
 ## 🤝 Let's Collaborate!
 
@@ -41,8 +40,4 @@ I am always open to new challenges and collaboration opportunities. Feel free to
 
 ## 📢 Acknowledgements
 
-This journey wouldn't have been possible without the support of mentors, fellow developers, and the tech community. A special shoutout to [relevant individuals, resources, or organizations] for inspiration and guidance.
-
-## 📝 License
-
-This profile and its content are distributed under the MIT License. Feel free to use, modify, or distribute under the same terms.
+This journey wouldn't have been possible without the support of mentors, fellow developers, and the tech community.
