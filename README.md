@@ -37,7 +37,7 @@ A sophisticated news platform that aggregates and presents the latest tech news.
 I am always open to new challenges and collaboration opportunities. Feel free to reach out or connect through any of the links above! Let's create, innovate, and build together.
 
 ## 🤩 Daily.dev
-<a href="https://app.daily.dev/thehungrybird"><img src="https://api.daily.dev/devcards/v2/2SY0omEGj.png?type=default&r=jtp" width="356" alt="Aryan Chaurasia's Dev Card"/></a>
+<a href="https://app.daily.dev/thehungrybird"><img src="https://api.daily.dev/devcards/v2/2SY0omEGj.png?type=wide&r=jtp" width="652" alt="Aryan Chaurasia's Dev Card"/></a>
 
 ---
 
