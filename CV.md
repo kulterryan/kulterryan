@@ -74,3 +74,6 @@ Oriental Institute of Science & Technology, Bhopal, M.P.
 - **Phone:** +91 9752 88 7393  
 
 ---
+
+Note:
+This resume is intentionally kept in Markdown format. The choice of Markdown ensures a simple, clean layout that is both easy to read and compatible with ATS systems. It also facilitates version control and rapid updates.
