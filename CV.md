@@ -74,7 +74,3 @@ Oriental Institute of Science & Technology, Bhopal, M.P.
 - **Phone:** +91 9752 88 7393  
 
 ---
-
-Feel free to adjust any section or styling as per your preferences. This version emphasizes your leadership, technical expertise, and key projects to help your resume stand out. 
-
-(Information sourced from your provided PDF citeturn0file0)
