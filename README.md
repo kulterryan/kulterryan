@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a **skilled full-stack web developer** with over **three years of experience** in developing, enhancing, and securing web applications. My expertise spans a diverse range of technologies, including **WordPress, React frameworks, cloud hosting solutions**, and **web security best practices**. I am committed to **optimizing Core Web Vitals** to ensure top-tier user experiences and seamless performance.
+Results-oriented Fullstack Developer with ** 3+ years** of experience building and scaling high-performance applications using Next.js, React, Node.js, and modern JavaScript tooling. Proven success leading tech initiatives, architecting cloud-native systems, and delivering data-driven solutions that support $5M+ in monthly ad spend. Adept at integrating AI, optimizing UX, and mentoring teams to drive innovation and product impact.
 
 ## 💼 Projects
 
@@ -26,10 +26,11 @@ A sophisticated news platform that aggregates and presents the latest tech news.
 ## 🛠️ Skills
 
 - **Languages**: TypeScript, JavaScript, Python
-- **Tech Stack**: Node.js, Bun.sh, Next.js,React.js, Elysia.js
-- **CMS**: WordPress, Sanity, DirectUs, Strapi
-- **Databases**: PostgreSQL, CockroachDB, MongoDB, MySQL
-- **Cloud & DevOps**: AWS, Vercel, Cloudflare, Serverless, Kubernetes, Docker, CI/CD
+- **Frontend**: React, NextJS, Tailwind CSS, Bootstrap
+- **Backend**: Nodejs, Bun, Eylsia.js, Hono, Prisma, Drizzle
+- **Databases**: MySQL, MongoDB, PostgreSQL, CockroachDB
+- **Cloud & DevOps**: AWS, Vercel, Cloudflare, GCP, Azure, Docker, Terraform, Kubernetes
+- **Tools**: Cloudflare, WordPress, Figma, Sanity, DirectUs, Strapi
 
 ## 🤝 Let's Collaborate!
 
