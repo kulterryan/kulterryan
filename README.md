@@ -25,7 +25,7 @@ A sophisticated news platform that aggregates and presents the latest tech news.
 
 ## 🛠️ Skills
 
-- **Languages**: JavaScript, PHP, Python
+- **Languages**: TypeScript, JavaScript, Python
 - **Tech Stack**: Node.js, Bun.sh, Next.js,React.js, Elysia.js
 - **CMS**: WordPress, Sanity, DirectUs, Strapi
 - **Databases**: PostgreSQL, CockroachDB, MongoDB, MySQL
